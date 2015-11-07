@@ -4,7 +4,7 @@ Simply run this script to install and configure this vimrc in your `$HOME`
 dir::
 
 	wget -O - https://github.com/nvie/vimrc/raw/master/autoinstall.sh | sh
-
+	(actually this cannot work, because many submodules must be updated lately).
 
 Installing this vimrc manually
 ==============================
